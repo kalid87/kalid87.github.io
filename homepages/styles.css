@@ -1,0 +1,23 @@
+
+#name {
+    font-family: monospace;
+    font-size: 50px;
+    text-emphasis: under line;
+    color: gold;
+    opacity: 0.5;
+}
+
+.about {
+    font-family: Helvetica;
+}
+
+h1 {
+    color: red;
+}
+
+li:hover {
+    color: purple;
+}
+h4.about {
+    color: brown;
+}
